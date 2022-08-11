@@ -1,16 +1,38 @@
 ### Hi there 👋
 
-<!--
-**ErikHgm/ErikHgm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Erik, I am a [Code Institute](https://codeinstitute.net/)Full Stack Web Developer student working to finish the course and start my first Software Engineering role.
 
-Here are some ideas to get you started:
+I have many years of experience in procurement, administration and logistics and have always enjoyed learning new things. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My goal is to work in a field that I have always been passionate about - Technology! 
+
+## Stack 
+
+- ### **Languages Learned**
+
+
+- ### **Current learning paths**
+
+
+- ### **Future learning paths**
+
+
+
+## GitHub statistics
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=erikhgm&show_icons=true&theme=prussian)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikhgm&hide=html&theme=prussian)](https://github.com/erikhgm/github-readme-stats)
+
+
+## GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=erikhgm&theme=onedark)](https://github.com/erikhgm/github-profile-trophy)
+
+
+## CodeWars Profile
+![](https://www.codewars.com/users/erikhgm/badges/large)
+
+## Contact me
+
+[<img src="assets/images/ln.png" width="50px">](www.linkedin.com/in/erikhgm)
