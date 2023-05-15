@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Erik, I am a [Code Institute](https://codeinstitute.net/) graduate with a diploma in Full Stack Software Developer aspiring to start my first Software Engineering role.
+I'm Erik, I am a [Code Institute](https://codeinstitute.net/) graduate with a diploma in Full Stack Software Development aspiring to start my first Software Engineering role.
 
 I have many years of experience in procurement, administration and logistics and have always enjoyed learning new things. 
 
